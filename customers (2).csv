@@ -1,0 +1,501 @@
+customer_id,name,age,occupation,country,pep_status,source_of_funds,account_open_date
+CUST00001,Allison Hill,38,Business Owner,USA,No,Business Income,2021-04-09
+CUST00002,Noah Rhodes,58,Retired,India,No,Salary,2023-10-29
+CUST00003,Angie Henderson,56,Business Owner,Australia,No,Loan,2022-11-06
+CUST00004,Daniel Wagner,38,Homemaker,India,No,Rental Income,2021-03-25
+CUST00005,Cristian Santos,34,Homemaker,UK,No,Salary,2022-12-02
+CUST00006,Connie Lawrence,59,Self-Employed,India,No,Loan,2022-07-23
+CUST00007,Abigail Shaffer,26,Government Employee,UK,No,Rental Income,2022-05-02
+CUST00008,Gina Moore,33,Student,India,No,Salary,2024-07-27
+CUST00009,Gabrielle Davis,75,Business Owner,India,No,Investment Returns,2022-10-08
+CUST00010,Ryan Munoz,44,Self-Employed,USA,No,Loan,2021-05-11
+CUST00011,Monica Herrera,59,Student,USA,No,Inheritance,2024-05-07
+CUST00012,Jamie Arnold,61,Student,Canada,No,Business Income,2024-01-23
+CUST00013,Lisa Hensley,35,Homemaker,India,No,Rental Income,2023-02-11
+CUST00014,Michele Williams,57,Student,UK,No,Business Income,2023-01-15
+CUST00015,Dylan Miller,50,Business Owner,UK,No,Business Income,2022-02-13
+CUST00016,Brian Ramirez,48,Government Employee,Germany,No,Savings,2024-06-14
+CUST00017,Holly Wood,24,Homemaker,India,No,Business Income,2024-11-26
+CUST00018,Derek Zuniga,25,Retired,Germany,No,Inheritance,2022-08-11
+CUST00019,Lisa Jackson,21,Student,Australia,No,Salary,2022-11-13
+CUST00020,Carla Gray,42,Salaried Employee,UK,No,Investment Returns,2022-08-06
+CUST00021,Margaret Hawkins DDS,67,Self-Employed,Canada,Yes,Rental Income,2022-04-29
+CUST00022,Patty Perez,40,Homemaker,Australia,No,Inheritance,2024-08-28
+CUST00023,Ethan Adams,55,Homemaker,Canada,No,Salary,2023-12-11
+CUST00024,Tommy Walter,44,Homemaker,UK,No,Business Income,2023-08-26
+CUST00025,Matthew Foster,26,Student,Germany,No,Rental Income,2022-01-12
+CUST00026,Judy Baker,51,Government Employee,USA,No,Savings,2022-04-05
+CUST00027,Justin Baker,55,Homemaker,Australia,No,Loan,2021-03-15
+CUST00028,Stephanie Ross,62,Self-Employed,Germany,No,Inheritance,2024-11-16
+CUST00029,Zachary Hicks,22,Government Employee,Canada,No,Business Income,2024-07-05
+CUST00030,Anthony Rodriguez,24,Business Owner,India,Yes,Salary,2024-12-26
+CUST00031,Rebecca Henderson,52,Business Owner,Canada,No,Business Income,2022-06-28
+CUST00032,James Ferrell,72,Retired,USA,No,Salary,2021-05-12
+CUST00033,Tricia Valencia,50,Homemaker,Australia,No,Salary,2022-03-14
+CUST00034,Nathan Maldonado,46,Student,UK,No,Rental Income,2023-09-05
+CUST00035,Debra Davidson,29,Retired,USA,No,Savings,2024-03-02
+CUST00036,Jeffrey Chavez,72,Homemaker,Canada,No,Salary,2021-05-02
+CUST00037,Sherri Baker,26,Homemaker,USA,No,Business Income,2022-10-08
+CUST00038,Cassandra Gaines,24,Business Owner,Germany,No,Salary,2023-12-24
+CUST00039,Elizabeth Fowler,39,Retired,Australia,No,Loan,2021-12-27
+CUST00040,Brittany Farmer,39,Business Owner,India,No,Inheritance,2025-05-04
+CUST00041,Paula Moreno,58,Retired,Canada,No,Rental Income,2024-10-12
+CUST00042,Fred Smith,75,Business Owner,India,No,Inheritance,2021-03-25
+CUST00043,Sherry Decker,57,Business Owner,Canada,No,Inheritance,2021-07-03
+CUST00044,Anthony Humphrey,57,Government Employee,UK,No,Savings,2021-06-14
+CUST00045,Angelica Tucker,46,Business Owner,Australia,No,Loan,2022-10-11
+CUST00046,Philip Cannon,25,Salaried Employee,Germany,No,Inheritance,2025-02-24
+CUST00047,John Pierce,37,Business Owner,UK,No,Salary,2023-03-12
+CUST00048,Shane Henderson,55,Student,UK,No,Inheritance,2022-11-14
+CUST00049,Joshua Blair,40,Student,India,Yes,Business Income,2024-08-23
+CUST00050,Eric Carney,30,Self-Employed,UK,No,Inheritance,2021-03-11
+CUST00051,Jessica Holmes,75,Self-Employed,Canada,No,Investment Returns,2024-12-26
+CUST00052,Danny Morgan,38,Salaried Employee,India,No,Savings,2021-07-13
+CUST00053,Crystal Robinson,49,Government Employee,Australia,No,Investment Returns,2025-08-27
+CUST00054,Mark Perez,65,Business Owner,Canada,No,Salary,2022-03-05
+CUST00055,Shannon Jones,23,Self-Employed,UK,No,Rental Income,2022-12-21
+CUST00056,Michael Lewis,27,Self-Employed,Canada,No,Rental Income,2022-01-04
+CUST00057,Timothy Duncan,36,Homemaker,USA,No,Rental Income,2022-11-09
+CUST00058,Richard Aguirre,42,Homemaker,Germany,Yes,Rental Income,2024-06-19
+CUST00059,Brent Jordan,27,Retired,India,No,Rental Income,2024-05-01
+CUST00060,John Daniel,43,Self-Employed,USA,No,Business Income,2021-04-03
+CUST00061,Victoria Garcia,25,Homemaker,UK,No,Savings,2022-12-18
+CUST00062,Gerald Hensley,55,Self-Employed,India,No,Salary,2024-04-14
+CUST00063,Connor West,23,Salaried Employee,Canada,No,Investment Returns,2023-08-24
+CUST00064,Donald Wright,28,Retired,Canada,No,Business Income,2025-01-11
+CUST00065,Jessica Callahan,72,Government Employee,Australia,No,Loan,2024-10-03
+CUST00066,Amber Kidd,63,Self-Employed,Canada,No,Savings,2025-02-24
+CUST00067,Tracy House,40,Student,Germany,No,Savings,2021-07-30
+CUST00068,Carol Tucker,47,Student,Germany,No,Loan,2021-09-18
+CUST00069,James Brown,74,Salaried Employee,UK,No,Savings,2022-10-21
+CUST00070,William Baker,41,Retired,Germany,No,Investment Returns,2024-09-01
+CUST00071,Jordan Henderson,71,Student,USA,No,Loan,2023-06-13
+CUST00072,Whitney Peters,42,Salaried Employee,USA,No,Loan,2024-02-04
+CUST00073,Brittney Phillips,23,Business Owner,Germany,No,Inheritance,2022-06-21
+CUST00074,Lauren Daniels,33,Student,Australia,No,Investment Returns,2023-05-17
+CUST00075,Amy Silva,21,Homemaker,India,No,Rental Income,2024-04-15
+CUST00076,Sarah Moore,54,Retired,India,No,Inheritance,2024-08-03
+CUST00077,Angela Lopez,63,Government Employee,Canada,No,Inheritance,2022-11-19
+CUST00078,Megan Young,53,Retired,Canada,No,Investment Returns,2022-06-25
+CUST00079,Steve Sanchez,74,Student,UK,No,Rental Income,2022-12-07
+CUST00080,Lisa Barnes,25,Student,UK,No,Business Income,2023-06-03
+CUST00081,Kelly Donovan,29,Business Owner,USA,No,Investment Returns,2025-01-14
+CUST00082,Mike Allen,47,Self-Employed,Canada,No,Investment Returns,2025-02-25
+CUST00083,Michael Evans,70,Government Employee,Australia,No,Salary,2023-08-05
+CUST00084,Paul Jones,40,Homemaker,Germany,No,Rental Income,2022-06-28
+CUST00085,Zachary Ferrell,59,Business Owner,Germany,No,Business Income,2022-11-10
+CUST00086,Daniel Baker,63,Student,Germany,No,Loan,2022-07-13
+CUST00087,Shirley Suarez,55,Salaried Employee,Germany,No,Inheritance,2021-12-29
+CUST00088,Christopher Bass,29,Homemaker,Germany,Yes,Business Income,2023-07-14
+CUST00089,Lisa Archer,41,Self-Employed,Germany,No,Savings,2024-02-05
+CUST00090,Aimee Montoya,68,Government Employee,India,No,Savings,2021-08-03
+CUST00091,Matthew Mcmillan,23,Homemaker,India,No,Business Income,2025-02-01
+CUST00092,Brian Rodriguez,51,Student,India,No,Inheritance,2022-08-14
+CUST00093,Denise Jacobs,31,Government Employee,Canada,No,Loan,2024-02-29
+CUST00094,Christina Walters,22,Self-Employed,Canada,No,Loan,2023-03-23
+CUST00095,John Whitehead,58,Student,Australia,No,Business Income,2021-02-26
+CUST00096,Anna Henderson,59,Homemaker,India,No,Rental Income,2025-06-25
+CUST00097,Aaron Wise,44,Salaried Employee,Canada,No,Loan,2025-04-30
+CUST00098,Deborah Figueroa,27,Retired,UK,No,Loan,2021-08-07
+CUST00099,Jessica Smith,54,Student,UK,No,Inheritance,2022-12-18
+CUST00100,Stephen Mckee,58,Self-Employed,UK,No,Rental Income,2024-10-11
+CUST00101,Sandra Aguilar,69,Retired,Canada,No,Inheritance,2023-09-25
+CUST00102,Cameron Parker,41,Business Owner,Germany,No,Business Income,2023-12-20
+CUST00103,Rebecca Valencia,65,Self-Employed,Canada,No,Salary,2024-07-28
+CUST00104,Christine Wright,52,Government Employee,USA,No,Loan,2021-12-19
+CUST00105,Richard Henson,22,Salaried Employee,UK,No,Business Income,2021-08-11
+CUST00106,Marc Moore,44,Retired,Canada,No,Inheritance,2023-01-07
+CUST00107,Sharon Cherry,43,Student,Germany,No,Savings,2023-12-10
+CUST00108,Sierra Johnson,41,Salaried Employee,Australia,No,Inheritance,2024-11-06
+CUST00109,Evelyn Galvan,38,Student,Canada,No,Rental Income,2022-04-23
+CUST00110,Sharon Cochran,33,Self-Employed,USA,No,Savings,2023-06-23
+CUST00111,Richard Rodriguez,38,Salaried Employee,India,Yes,Inheritance,2021-06-02
+CUST00112,Shannon Walker,69,Retired,India,No,Rental Income,2021-09-20
+CUST00113,Julia Torres,42,Business Owner,India,No,Savings,2024-12-13
+CUST00114,Crystal Johnson,25,Government Employee,Australia,No,Loan,2024-02-23
+CUST00115,Garrett Lin,40,Salaried Employee,USA,No,Salary,2023-05-15
+CUST00116,Diana May,35,Homemaker,Canada,No,Investment Returns,2023-01-26
+CUST00117,William Herrera,48,Self-Employed,Canada,No,Inheritance,2021-08-02
+CUST00118,Ashley Waller,69,Business Owner,Australia,No,Business Income,2021-08-03
+CUST00119,Victor Baker,56,Salaried Employee,USA,No,Salary,2022-12-20
+CUST00120,Jeffrey Chandler,23,Business Owner,UK,No,Loan,2021-05-17
+CUST00121,Larry Dixon,35,Self-Employed,Australia,No,Inheritance,2024-09-26
+CUST00122,Kenneth Scott,62,Business Owner,UK,No,Rental Income,2024-09-19
+CUST00123,April Frost,59,Student,Canada,No,Savings,2024-11-02
+CUST00124,Michelle Harmon,46,Self-Employed,Canada,No,Inheritance,2023-02-27
+CUST00125,Helen Jones,48,Student,UK,No,Inheritance,2025-02-16
+CUST00126,Erin Edwards,74,Homemaker,Canada,No,Inheritance,2021-03-07
+CUST00127,Michelle Evans,69,Homemaker,USA,No,Investment Returns,2021-12-29
+CUST00128,Jason Powell,58,Retired,Australia,No,Rental Income,2025-02-05
+CUST00129,Cameron Fisher,41,Student,India,No,Rental Income,2023-04-19
+CUST00130,Megan Orr,63,Retired,Canada,No,Salary,2025-01-23
+CUST00131,Elizabeth Kelley,70,Retired,Canada,No,Rental Income,2021-03-27
+CUST00132,Dustin Jordan,24,Business Owner,Canada,No,Savings,2022-12-31
+CUST00133,Mary Marshall,34,Self-Employed,Canada,No,Business Income,2022-11-13
+CUST00134,Daniel Kennedy,22,Student,Canada,No,Rental Income,2021-04-11
+CUST00135,Rebecca Jackson,56,Retired,India,No,Business Income,2022-06-29
+CUST00136,Jose Schultz,30,Retired,Australia,No,Savings,2021-09-05
+CUST00137,Robert Potter,51,Business Owner,Germany,No,Inheritance,2022-12-22
+CUST00138,Courtney Gonzalez,68,Business Owner,India,No,Savings,2023-08-06
+CUST00139,David Alvarez,73,Salaried Employee,UK,No,Loan,2022-01-17
+CUST00140,Angel Perry,30,Retired,Canada,No,Investment Returns,2023-07-17
+CUST00141,Cheyenne Horton,50,Self-Employed,USA,No,Loan,2022-01-18
+CUST00142,David Douglas Jr.,47,Salaried Employee,UK,No,Loan,2021-08-18
+CUST00143,Patricia Rodriguez,63,Homemaker,Australia,No,Business Income,2025-05-29
+CUST00144,Christopher Rubio,42,Homemaker,India,No,Rental Income,2024-12-23
+CUST00145,Amber Wright,67,Business Owner,Germany,No,Rental Income,2024-12-21
+CUST00146,Joyce Solis,37,Self-Employed,Canada,No,Loan,2021-11-01
+CUST00147,Victoria Larson,64,Homemaker,Canada,No,Investment Returns,2021-11-07
+CUST00148,Stephanie Salazar,55,Salaried Employee,Canada,No,Salary,2021-09-17
+CUST00149,Kathy Rivas,35,Student,India,No,Investment Returns,2021-07-04
+CUST00150,Stephanie Manning,31,Student,UK,No,Salary,2023-03-02
+CUST00151,David Wright,44,Retired,USA,No,Business Income,2023-05-10
+CUST00152,Pamela Boyd,31,Business Owner,India,No,Inheritance,2021-12-24
+CUST00153,Denise Jones,58,Business Owner,USA,No,Investment Returns,2024-05-22
+CUST00154,Devon Flores,72,Retired,UK,No,Loan,2024-10-19
+CUST00155,Brenda Hall,58,Self-Employed,Australia,No,Investment Returns,2024-06-26
+CUST00156,Michelle Brown,45,Homemaker,Germany,No,Salary,2023-02-11
+CUST00157,Joshua Perry,65,Self-Employed,India,No,Rental Income,2023-08-17
+CUST00158,Jason Stein,64,Homemaker,Australia,No,Salary,2022-12-26
+CUST00159,Melissa Gates,70,Homemaker,USA,No,Inheritance,2024-03-09
+CUST00160,Jamie Smith,64,Homemaker,Australia,No,Rental Income,2022-01-10
+CUST00161,Paul Castaneda,61,Student,India,No,Savings,2025-05-08
+CUST00162,Jennifer Adkins,26,Self-Employed,UK,No,Loan,2024-07-08
+CUST00163,Lindsey Walker,44,Government Employee,Canada,No,Savings,2023-09-17
+CUST00164,Jeffrey Johnson,72,Self-Employed,Australia,No,Rental Income,2024-10-01
+CUST00165,Michael Powell,69,Business Owner,Australia,No,Loan,2023-08-22
+CUST00166,John Anderson,44,Salaried Employee,Germany,No,Salary,2022-04-14
+CUST00167,Alyssa Long,68,Student,UK,No,Inheritance,2021-11-16
+CUST00168,Alyssa Day,35,Retired,India,No,Inheritance,2023-11-14
+CUST00169,Joel Williams,25,Student,Germany,No,Loan,2021-09-14
+CUST00170,Daniel Murphy,23,Self-Employed,Germany,No,Salary,2023-09-28
+CUST00171,Jamie Walton,50,Self-Employed,Australia,No,Loan,2022-11-13
+CUST00172,Darlene Miller,30,Retired,Australia,No,Salary,2022-02-26
+CUST00173,Joshua Cooke,23,Student,UK,No,Business Income,2023-01-19
+CUST00174,Matthew Harrington,27,Student,UK,No,Inheritance,2023-10-25
+CUST00175,Nicole Herring,28,Homemaker,Germany,No,Salary,2024-08-29
+CUST00176,Alex Hernandez,22,Salaried Employee,UK,No,Business Income,2021-12-06
+CUST00177,Michael Elliott,56,Business Owner,Canada,No,Business Income,2023-05-29
+CUST00178,Michael Wang,59,Salaried Employee,UK,No,Rental Income,2024-05-24
+CUST00179,Lawrence Adkins,28,Student,India,No,Business Income,2022-12-07
+CUST00180,Robert Oconnell,41,Salaried Employee,USA,No,Savings,2024-04-13
+CUST00181,Alexander Collins,68,Salaried Employee,Germany,No,Investment Returns,2022-07-20
+CUST00182,Tina Sanders,35,Government Employee,India,No,Loan,2022-12-03
+CUST00183,Angela Vaughn,22,Salaried Employee,Germany,No,Rental Income,2023-02-03
+CUST00184,Ashley Barton,49,Salaried Employee,India,No,Savings,2024-12-10
+CUST00185,Lindsay Martinez,61,Government Employee,Canada,No,Loan,2023-03-29
+CUST00186,Dr. Hannah Patterson,50,Government Employee,Canada,No,Investment Returns,2021-02-14
+CUST00187,Jonathan Peterson,70,Government Employee,Australia,No,Rental Income,2022-10-24
+CUST00188,Samantha Garcia,42,Homemaker,Germany,No,Investment Returns,2024-12-20
+CUST00189,Madison Poole,37,Self-Employed,USA,No,Loan,2025-03-17
+CUST00190,Jessica Gross,48,Salaried Employee,Australia,No,Loan,2024-09-17
+CUST00191,Debra Morton,56,Government Employee,UK,No,Loan,2022-10-15
+CUST00192,Karen Graham,69,Retired,Australia,No,Salary,2021-12-16
+CUST00193,Debra Christian,53,Business Owner,USA,No,Loan,2024-05-03
+CUST00194,Angelica Keith,56,Self-Employed,India,No,Rental Income,2022-02-03
+CUST00195,John Bishop,56,Homemaker,Canada,No,Inheritance,2022-04-06
+CUST00196,Allen Rosales,63,Homemaker,Australia,No,Savings,2023-12-13
+CUST00197,Daniel Salinas,42,Self-Employed,India,No,Business Income,2021-12-12
+CUST00198,Spencer Haynes,68,Student,India,No,Salary,2024-06-16
+CUST00199,Adam Vaughan,31,Self-Employed,UK,No,Loan,2022-03-12
+CUST00200,Nathan Freeman,30,Business Owner,Canada,No,Salary,2025-05-29
+CUST00201,Melissa Brewer,52,Government Employee,Germany,No,Investment Returns,2024-02-04
+CUST00202,Ricky Davis II,48,Salaried Employee,UK,No,Loan,2022-07-19
+CUST00203,Elizabeth Perkins,23,Business Owner,Germany,No,Inheritance,2024-12-15
+CUST00204,Joseph Coleman,70,Business Owner,UK,No,Savings,2024-09-15
+CUST00205,Erin Warner,32,Business Owner,Germany,Yes,Inheritance,2024-08-13
+CUST00206,David Martinez,72,Self-Employed,India,No,Investment Returns,2022-07-14
+CUST00207,Bryan Herrera,41,Government Employee,Germany,Yes,Inheritance,2021-07-05
+CUST00208,Cathy Robinson,46,Salaried Employee,UK,No,Business Income,2023-03-17
+CUST00209,Dr. William Warren,26,Retired,India,No,Business Income,2022-03-25
+CUST00210,Brian Lee,40,Student,UK,No,Business Income,2024-06-11
+CUST00211,Christopher Smith,54,Government Employee,USA,No,Rental Income,2023-06-10
+CUST00212,Denise Mccann,73,Business Owner,USA,No,Salary,2023-09-09
+CUST00213,Melissa Martinez,69,Homemaker,Australia,No,Salary,2021-08-24
+CUST00214,Katherine Salas,69,Government Employee,Germany,No,Loan,2022-02-09
+CUST00215,Julie Alexander,61,Self-Employed,USA,No,Investment Returns,2022-05-21
+CUST00216,Anthony Everett,38,Government Employee,India,No,Savings,2025-03-20
+CUST00217,Rodney Morales,24,Self-Employed,UK,No,Salary,2025-04-27
+CUST00218,Mark Brown,50,Government Employee,Canada,No,Rental Income,2022-06-16
+CUST00219,Justin Torres,33,Self-Employed,Canada,No,Investment Returns,2024-10-11
+CUST00220,Bailey Duran DDS,72,Homemaker,UK,No,Loan,2022-03-18
+CUST00221,Courtney Mills,66,Retired,Germany,No,Inheritance,2022-03-27
+CUST00222,Jeremy Dalton,39,Retired,Germany,No,Rental Income,2021-08-03
+CUST00223,Elizabeth Oliver DDS,62,Self-Employed,India,No,Savings,2021-12-04
+CUST00224,Theresa Clark,67,Homemaker,Australia,No,Inheritance,2023-04-06
+CUST00225,Matthew Moore,43,Self-Employed,Australia,No,Loan,2023-08-27
+CUST00226,Benjamin Smith,26,Self-Employed,Canada,No,Investment Returns,2023-12-25
+CUST00227,Kirk Carter,74,Student,Australia,No,Inheritance,2021-06-05
+CUST00228,Michael Warner,22,Self-Employed,UK,No,Business Income,2023-04-22
+CUST00229,Michael Bradshaw,35,Business Owner,USA,No,Salary,2024-10-07
+CUST00230,Lori Guerrero,68,Government Employee,India,No,Loan,2021-12-05
+CUST00231,Jessica Stephens,31,Business Owner,Australia,No,Rental Income,2024-11-12
+CUST00232,Susan Serrano,44,Student,Australia,No,Business Income,2022-02-13
+CUST00233,Christopher Parker,49,Business Owner,Canada,No,Business Income,2022-09-22
+CUST00234,Laura Roberts,64,Government Employee,Germany,No,Investment Returns,2023-03-05
+CUST00235,Michael Lyons,31,Homemaker,USA,No,Rental Income,2024-12-28
+CUST00236,Kathryn Snyder,51,Homemaker,UK,No,Inheritance,2021-01-28
+CUST00237,Andrew Reynolds,39,Salaried Employee,USA,No,Savings,2022-09-03
+CUST00238,David Davis,35,Homemaker,Germany,No,Savings,2022-08-19
+CUST00239,Sara Johnston,36,Retired,India,No,Savings,2025-01-28
+CUST00240,Yvonne Chambers,66,Student,UK,No,Rental Income,2024-05-09
+CUST00241,Andrew Avila,51,Student,USA,Yes,Rental Income,2023-04-13
+CUST00242,Matthew Moon,26,Salaried Employee,UK,No,Business Income,2022-01-20
+CUST00243,Kevin Walters,48,Salaried Employee,UK,No,Business Income,2024-08-29
+CUST00244,Brandon Bailey MD,71,Government Employee,Germany,Yes,Salary,2022-04-10
+CUST00245,Shannon Rivera,53,Government Employee,USA,No,Loan,2023-06-28
+CUST00246,Donna Landry,36,Government Employee,Germany,No,Business Income,2022-02-08
+CUST00247,Krista Gibson,25,Government Employee,Canada,No,Inheritance,2022-07-11
+CUST00248,Frank Cordova,23,Student,Germany,Yes,Savings,2025-03-08
+CUST00249,Jose Travis,36,Student,Australia,No,Loan,2021-10-21
+CUST00250,Kimberly Gutierrez,23,Self-Employed,Canada,No,Savings,2024-11-03
+CUST00251,Isaiah Avila,65,Retired,Australia,No,Business Income,2024-10-03
+CUST00252,Olivia Harris,23,Self-Employed,USA,No,Salary,2024-12-19
+CUST00253,Tanya Kim,46,Homemaker,Canada,No,Investment Returns,2025-01-26
+CUST00254,Barbara Dudley,43,Homemaker,India,No,Rental Income,2023-12-24
+CUST00255,Cynthia Moore,48,Retired,Australia,No,Investment Returns,2023-07-24
+CUST00256,Kristen Davis,52,Self-Employed,Canada,No,Savings,2022-08-28
+CUST00257,Susan Murray MD,73,Business Owner,Canada,No,Savings,2024-10-17
+CUST00258,Kathleen Moran,40,Retired,Canada,No,Loan,2024-08-01
+CUST00259,Denise Davenport,23,Student,UK,No,Inheritance,2023-12-28
+CUST00260,Mrs. Kristen Reyes,24,Salaried Employee,Australia,No,Loan,2023-06-14
+CUST00261,Katie Suarez,31,Salaried Employee,USA,No,Rental Income,2021-12-21
+CUST00262,Desiree Tyler,25,Business Owner,Australia,No,Savings,2023-04-13
+CUST00263,Timothy Romero,30,Student,Germany,No,Savings,2022-12-14
+CUST00264,Diane Evans,54,Self-Employed,Germany,No,Savings,2024-04-08
+CUST00265,Yvonne Burns,68,Business Owner,Germany,No,Inheritance,2022-04-25
+CUST00266,Joshua Reed,66,Retired,USA,No,Inheritance,2021-06-06
+CUST00267,Kimberly Gibson,28,Business Owner,India,No,Investment Returns,2021-03-01
+CUST00268,Colin Terry,64,Homemaker,UK,No,Loan,2021-06-05
+CUST00269,Cynthia Rowe,40,Homemaker,USA,No,Loan,2021-12-27
+CUST00270,Patrick Thornton,53,Business Owner,India,No,Business Income,2023-10-16
+CUST00271,Jasmin Alvarado,56,Government Employee,UK,No,Investment Returns,2024-12-19
+CUST00272,Veronica Simpson,40,Retired,Australia,No,Loan,2022-08-24
+CUST00273,Jonathan Lawrence,57,Salaried Employee,USA,No,Savings,2025-05-28
+CUST00274,Shelly Alexander,43,Business Owner,Canada,No,Loan,2024-09-21
+CUST00275,Joyce Bowen,53,Homemaker,India,No,Rental Income,2022-03-10
+CUST00276,Matthew Moore,41,Student,USA,No,Savings,2024-01-21
+CUST00277,Wayne Morgan,61,Government Employee,UK,No,Business Income,2024-02-06
+CUST00278,Marie Christian,62,Business Owner,Canada,No,Inheritance,2024-03-05
+CUST00279,Shannon James,59,Self-Employed,Canada,No,Salary,2024-07-03
+CUST00280,Nathan Malone,57,Self-Employed,Australia,Yes,Business Income,2023-05-21
+CUST00281,Amanda Jones,61,Government Employee,UK,No,Loan,2022-08-20
+CUST00282,Tammie Bright,46,Self-Employed,Germany,No,Salary,2025-07-20
+CUST00283,Jessica Garcia,50,Business Owner,UK,No,Inheritance,2023-05-15
+CUST00284,Shelia Wallace,43,Retired,USA,No,Rental Income,2022-07-21
+CUST00285,Stephanie Williams,50,Salaried Employee,UK,No,Investment Returns,2024-06-23
+CUST00286,Elaine Brooks,45,Homemaker,Canada,No,Investment Returns,2024-05-16
+CUST00287,Joseph Knight,67,Self-Employed,USA,No,Rental Income,2022-05-08
+CUST00288,Carolyn Miller,40,Retired,India,No,Salary,2022-08-21
+CUST00289,Lisa Allen,58,Self-Employed,India,No,Salary,2022-07-17
+CUST00290,Briana Murray,64,Retired,UK,No,Inheritance,2024-04-30
+CUST00291,David Smith,67,Self-Employed,Germany,No,Savings,2022-09-27
+CUST00292,Stephanie Byrd,44,Government Employee,UK,No,Salary,2022-08-20
+CUST00293,Jeremy Reed,73,Government Employee,Australia,No,Inheritance,2024-05-13
+CUST00294,Margaret Coleman,71,Self-Employed,Canada,No,Savings,2024-01-03
+CUST00295,Ryan Gonzalez,23,Salaried Employee,India,No,Business Income,2022-09-24
+CUST00296,John Young,53,Business Owner,UK,No,Inheritance,2024-06-16
+CUST00297,Laura Haney,74,Self-Employed,Canada,No,Savings,2022-10-10
+CUST00298,William Barrett,40,Retired,India,No,Savings,2021-08-10
+CUST00299,Keith Jennings,40,Homemaker,Australia,No,Rental Income,2022-05-11
+CUST00300,Amber Obrien,62,Homemaker,Canada,Yes,Inheritance,2024-12-13
+CUST00301,Tanner Mitchell DDS,61,Student,Canada,No,Rental Income,2024-08-16
+CUST00302,Heather Fields,57,Student,India,No,Business Income,2022-06-22
+CUST00303,Megan Le,65,Business Owner,Germany,No,Inheritance,2023-02-19
+CUST00304,Sara Fuller,24,Student,USA,No,Inheritance,2022-01-25
+CUST00305,Maria Parker,54,Retired,UK,No,Business Income,2022-07-30
+CUST00306,Kevin Oconnor,70,Homemaker,Australia,No,Loan,2021-12-08
+CUST00307,Edward Burgess,36,Self-Employed,Canada,No,Savings,2023-07-27
+CUST00308,Carlos Ryan,65,Student,Germany,No,Savings,2023-08-21
+CUST00309,Kiara Mcintyre,67,Self-Employed,UK,No,Salary,2021-12-06
+CUST00310,Dawn Summers,46,Homemaker,UK,No,Rental Income,2023-07-01
+CUST00311,Dr. Paul Morgan,26,Self-Employed,Germany,Yes,Loan,2022-08-05
+CUST00312,Victor Taylor,38,Government Employee,Australia,No,Savings,2024-07-02
+CUST00313,Shannon Ramsey,36,Salaried Employee,Australia,No,Inheritance,2021-08-29
+CUST00314,Tracy Ballard,42,Student,Germany,No,Salary,2025-02-07
+CUST00315,Richard Smith,31,Retired,Australia,Yes,Investment Returns,2021-12-10
+CUST00316,Jordan Chambers,41,Self-Employed,Australia,No,Salary,2021-05-22
+CUST00317,Lauren Carson,67,Homemaker,India,No,Business Income,2024-07-08
+CUST00318,Ashley Hall,74,Retired,Germany,No,Business Income,2025-02-12
+CUST00319,Stephen Hoffman,27,Self-Employed,UK,Yes,Investment Returns,2022-10-10
+CUST00320,Connie Brown,29,Homemaker,Canada,No,Investment Returns,2024-03-22
+CUST00321,Susan Turner,67,Retired,Australia,No,Savings,2025-02-07
+CUST00322,Charles Shah,57,Student,USA,No,Business Income,2022-03-12
+CUST00323,Johnathan Davis,53,Self-Employed,India,No,Investment Returns,2025-04-28
+CUST00324,Brandy Chavez,41,Business Owner,India,No,Savings,2024-02-20
+CUST00325,Natalie Bautista,42,Self-Employed,Canada,No,Loan,2025-08-29
+CUST00326,Patrick Moore,36,Salaried Employee,Australia,No,Salary,2023-11-08
+CUST00327,Brett Burns,66,Homemaker,UK,No,Loan,2021-07-03
+CUST00328,Trevor Johnson,60,Business Owner,USA,No,Business Income,2024-09-24
+CUST00329,Jeremy Sampson,44,Retired,Australia,No,Inheritance,2022-07-27
+CUST00330,Ariana Jennings,69,Business Owner,Australia,No,Rental Income,2025-04-19
+CUST00331,Vanessa Howard,44,Salaried Employee,Canada,No,Salary,2021-12-08
+CUST00332,Colton Martinez,55,Business Owner,USA,No,Savings,2023-03-05
+CUST00333,Jordan Bates,58,Retired,India,No,Inheritance,2025-03-27
+CUST00334,Linda Smith,50,Government Employee,India,No,Inheritance,2021-10-18
+CUST00335,Dana Martinez,46,Self-Employed,India,No,Loan,2021-12-25
+CUST00336,Andrea Hubbard,65,Salaried Employee,Canada,No,Salary,2022-05-16
+CUST00337,Daniel Kane,70,Business Owner,Australia,Yes,Loan,2023-06-21
+CUST00338,Charles Lester,49,Homemaker,Germany,No,Investment Returns,2021-03-16
+CUST00339,Scott Thomas,29,Student,UK,No,Salary,2022-02-27
+CUST00340,David Thompson,35,Homemaker,India,No,Rental Income,2023-04-12
+CUST00341,Allison Smith,48,Government Employee,Germany,No,Rental Income,2023-11-09
+CUST00342,Cynthia Morris,33,Student,India,No,Salary,2023-07-01
+CUST00343,Anthony Harmon,22,Business Owner,USA,No,Salary,2021-09-24
+CUST00344,Nichole Alvarez,66,Homemaker,India,Yes,Business Income,2022-09-23
+CUST00345,Kayla Rodriguez,69,Homemaker,India,No,Business Income,2024-01-02
+CUST00346,Theresa Williams,57,Self-Employed,Canada,No,Inheritance,2024-01-25
+CUST00347,Sharon Boyd,63,Government Employee,USA,No,Investment Returns,2023-10-19
+CUST00348,Victor Brown,68,Business Owner,Australia,No,Loan,2022-05-27
+CUST00349,James Parks,62,Student,Germany,No,Rental Income,2023-11-14
+CUST00350,Theodore Jones Jr.,40,Retired,USA,No,Rental Income,2023-01-08
+CUST00351,Ana Hill,75,Student,USA,No,Rental Income,2025-03-31
+CUST00352,Kimberly Nguyen,56,Government Employee,USA,No,Investment Returns,2023-10-31
+CUST00353,Kerry Chavez DDS,49,Homemaker,UK,No,Salary,2024-08-08
+CUST00354,Michael Farrell,59,Government Employee,India,No,Rental Income,2023-12-20
+CUST00355,Patricia Le,63,Government Employee,USA,No,Investment Returns,2023-05-07
+CUST00356,Jesse Perez,34,Business Owner,Australia,No,Salary,2024-03-26
+CUST00357,Jesse Perry,46,Business Owner,Canada,No,Savings,2023-03-08
+CUST00358,Jeffery Ortega,40,Self-Employed,UK,No,Inheritance,2023-01-02
+CUST00359,Christian Leblanc,51,Homemaker,UK,No,Business Income,2023-09-08
+CUST00360,Ronald Davis,35,Student,USA,No,Salary,2022-03-08
+CUST00361,Parker Cain,47,Self-Employed,USA,No,Business Income,2024-02-03
+CUST00362,Laurie Hoffman,52,Government Employee,Australia,No,Loan,2023-12-13
+CUST00363,Bryan Gomez,67,Student,Australia,No,Investment Returns,2024-08-15
+CUST00364,Nicole Parrish,29,Student,Canada,No,Investment Returns,2022-02-20
+CUST00365,Tracy Burke,54,Salaried Employee,India,No,Rental Income,2025-08-02
+CUST00366,Kenneth Lewis,74,Student,USA,No,Salary,2025-01-24
+CUST00367,Courtney Rodriguez,44,Salaried Employee,Canada,Yes,Loan,2022-05-26
+CUST00368,Holly Farmer,22,Salaried Employee,Canada,No,Inheritance,2025-06-06
+CUST00369,Renee Bruce,55,Self-Employed,India,Yes,Inheritance,2022-02-13
+CUST00370,Sabrina Austin,32,Salaried Employee,India,No,Inheritance,2023-10-12
+CUST00371,Allison Hickman,73,Self-Employed,UK,No,Rental Income,2025-01-13
+CUST00372,Debra White,57,Business Owner,Australia,No,Business Income,2021-07-04
+CUST00373,Ellen Morgan,75,Student,India,No,Salary,2023-05-13
+CUST00374,Sergio Knight,61,Salaried Employee,Australia,No,Business Income,2022-03-27
+CUST00375,Charles Schultz,42,Government Employee,India,No,Inheritance,2023-09-10
+CUST00376,Paul Lewis,57,Retired,UK,No,Salary,2021-03-10
+CUST00377,Glen Wood,57,Student,India,No,Business Income,2025-04-10
+CUST00378,Paula Bradley,69,Homemaker,Australia,No,Rental Income,2025-01-17
+CUST00379,Anthony Moore,57,Homemaker,Germany,No,Loan,2023-10-26
+CUST00380,Megan Nelson,71,Student,Australia,No,Salary,2023-09-07
+CUST00381,Karla Ramos,74,Salaried Employee,UK,No,Inheritance,2022-06-11
+CUST00382,Paul Wilson,22,Student,UK,No,Rental Income,2022-10-20
+CUST00383,Douglas Gregory,45,Retired,USA,No,Loan,2022-01-13
+CUST00384,Mr. Andrew Foster,39,Homemaker,USA,No,Loan,2024-07-24
+CUST00385,Aimee Turner,71,Student,USA,No,Loan,2023-09-10
+CUST00386,Chad Scott,40,Retired,UK,No,Rental Income,2024-09-22
+CUST00387,Adam Burgess,49,Government Employee,Canada,No,Inheritance,2024-11-29
+CUST00388,James Padilla,26,Government Employee,Canada,Yes,Rental Income,2023-03-21
+CUST00389,Sandra Drake,70,Salaried Employee,Australia,Yes,Inheritance,2022-01-20
+CUST00390,Scott Williams,31,Business Owner,UK,No,Savings,2022-07-14
+CUST00391,Thomas Atkins,38,Retired,UK,No,Investment Returns,2023-01-02
+CUST00392,Laura Mckinney,61,Retired,Canada,No,Inheritance,2022-08-18
+CUST00393,Brian Smith,46,Self-Employed,Canada,No,Investment Returns,2022-11-30
+CUST00394,Robert Montgomery,62,Government Employee,USA,No,Savings,2021-12-27
+CUST00395,Tamara Davis,41,Business Owner,Germany,No,Savings,2021-06-07
+CUST00396,Dana Chapman,71,Business Owner,UK,No,Investment Returns,2023-02-10
+CUST00397,Jennifer Collins,33,Government Employee,Canada,No,Business Income,2022-10-17
+CUST00398,Gary Jackson,66,Business Owner,Germany,Yes,Rental Income,2021-06-12
+CUST00399,Ashley Hicks,71,Retired,Australia,No,Investment Returns,2021-07-25
+CUST00400,Hannah Luna,30,Student,Germany,No,Rental Income,2025-01-13
+CUST00401,Robin Young,58,Retired,Canada,No,Inheritance,2023-07-19
+CUST00402,Craig Morrison,44,Student,Canada,No,Inheritance,2025-05-03
+CUST00403,Mary Thompson,63,Self-Employed,USA,No,Loan,2025-07-13
+CUST00404,Kathleen Webster,62,Retired,UK,No,Rental Income,2024-12-06
+CUST00405,Joann Glass,53,Student,Canada,Yes,Inheritance,2021-11-17
+CUST00406,Madison Weber,46,Retired,Australia,No,Inheritance,2023-01-31
+CUST00407,Lori Hernandez,51,Salaried Employee,UK,No,Investment Returns,2024-05-22
+CUST00408,Jeremy Turner,43,Self-Employed,UK,No,Investment Returns,2022-04-15
+CUST00409,Anthony Romero,49,Student,Australia,No,Investment Returns,2024-12-28
+CUST00410,Jesse Brown,28,Salaried Employee,UK,No,Loan,2021-04-11
+CUST00411,Angela Lin,68,Business Owner,Canada,No,Business Income,2024-10-18
+CUST00412,Lisa Hunter,50,Business Owner,Germany,No,Loan,2024-02-19
+CUST00413,Julian Conner,22,Student,Canada,No,Business Income,2022-03-26
+CUST00414,Joanna Pacheco,34,Business Owner,UK,No,Rental Income,2025-07-22
+CUST00415,Erica Alvarez,55,Business Owner,UK,No,Savings,2022-08-18
+CUST00416,Antonio Garcia,52,Government Employee,Australia,No,Savings,2023-07-31
+CUST00417,Gwendolyn Klein,43,Self-Employed,Germany,No,Inheritance,2021-05-21
+CUST00418,Carrie Wright,60,Government Employee,India,No,Loan,2023-05-09
+CUST00419,Jeffrey Mills,32,Self-Employed,Australia,No,Business Income,2023-06-17
+CUST00420,Jake Campbell,45,Retired,USA,No,Investment Returns,2022-10-19
+CUST00421,George Harper,32,Government Employee,USA,No,Investment Returns,2024-07-15
+CUST00422,Maria Jones,60,Salaried Employee,UK,No,Salary,2024-11-01
+CUST00423,Michael Mitchell,56,Government Employee,Australia,No,Investment Returns,2021-08-27
+CUST00424,Mary Escobar,49,Retired,USA,No,Salary,2025-07-16
+CUST00425,Felicia Aguilar,23,Self-Employed,USA,No,Inheritance,2024-05-19
+CUST00426,Gregory Ponce,70,Homemaker,Germany,No,Inheritance,2025-01-01
+CUST00427,Jenna Larson,55,Homemaker,UK,No,Inheritance,2022-07-04
+CUST00428,Emily Bennett,27,Student,Australia,No,Rental Income,2023-08-07
+CUST00429,Robin Santiago,37,Self-Employed,India,No,Investment Returns,2023-10-04
+CUST00430,Nancy Jennings,65,Self-Employed,Australia,No,Inheritance,2023-05-29
+CUST00431,Maria Henderson,34,Homemaker,USA,No,Rental Income,2021-10-22
+CUST00432,Jack White,55,Business Owner,UK,No,Loan,2023-09-16
+CUST00433,Travis Tucker,53,Student,India,No,Business Income,2025-03-01
+CUST00434,Chad Jones,29,Student,USA,No,Business Income,2021-02-19
+CUST00435,Ashley Wise,74,Student,Germany,No,Investment Returns,2021-11-18
+CUST00436,Sophia Johnson,45,Retired,India,No,Loan,2022-10-16
+CUST00437,Ralph Anderson,44,Retired,Germany,No,Savings,2025-09-20
+CUST00438,Christopher Guerra,26,Student,Germany,No,Loan,2021-12-10
+CUST00439,Rhonda Martin,55,Retired,USA,No,Investment Returns,2022-06-11
+CUST00440,Jason Rhodes,42,Government Employee,Canada,No,Business Income,2022-12-29
+CUST00441,Jeremy Mitchell,69,Salaried Employee,India,No,Salary,2023-03-22
+CUST00442,Joann Ferguson,31,Retired,Germany,Yes,Salary,2024-05-21
+CUST00443,Robert Harrison,62,Self-Employed,USA,No,Rental Income,2024-10-12
+CUST00444,Holly Valentine,44,Student,Australia,No,Business Income,2022-10-09
+CUST00445,Mrs. Diane Reyes,69,Business Owner,Germany,No,Loan,2021-02-06
+CUST00446,Tracy Montoya,25,Business Owner,Canada,No,Business Income,2021-11-01
+CUST00447,Brenda Wright,42,Homemaker,India,No,Rental Income,2021-08-15
+CUST00448,Shelly Spencer,45,Salaried Employee,Australia,No,Rental Income,2024-06-26
+CUST00449,Ryan Rosales,29,Retired,USA,No,Loan,2025-01-25
+CUST00450,Phillip Nelson,60,Student,USA,No,Investment Returns,2024-03-20
+CUST00451,Brittany Kim,47,Government Employee,Australia,No,Investment Returns,2024-09-27
+CUST00452,Courtney Hayes,28,Government Employee,Australia,No,Investment Returns,2023-01-02
+CUST00453,Alexander Brown,38,Student,India,No,Business Income,2022-04-30
+CUST00454,Cynthia Vang,70,Student,India,No,Rental Income,2024-02-26
+CUST00455,Alfred Galvan,33,Student,Germany,No,Savings,2025-07-09
+CUST00456,Marie Moody,36,Retired,Germany,No,Salary,2022-06-16
+CUST00457,Dustin Gallegos,21,Self-Employed,UK,No,Business Income,2022-04-11
+CUST00458,Brenda Thornton,32,Homemaker,Germany,No,Rental Income,2024-12-05
+CUST00459,Aaron Miller,34,Salaried Employee,India,No,Rental Income,2022-08-21
+CUST00460,Ruben Dunn,70,Retired,Germany,No,Loan,2025-01-08
+CUST00461,Kelsey Rodriguez,30,Self-Employed,India,No,Savings,2022-03-01
+CUST00462,Eric Williams,30,Government Employee,UK,No,Investment Returns,2022-03-09
+CUST00463,Riley Bryant,62,Salaried Employee,UK,No,Loan,2024-03-12
+CUST00464,Taylor Carlson,48,Salaried Employee,Germany,No,Inheritance,2025-06-19
+CUST00465,Jose Allen,68,Business Owner,India,No,Salary,2025-02-21
+CUST00466,Jeffrey Mendez,43,Government Employee,Canada,No,Rental Income,2024-05-07
+CUST00467,Jason Beck,38,Student,India,No,Rental Income,2023-01-31
+CUST00468,William Jones,25,Self-Employed,Australia,No,Inheritance,2025-05-15
+CUST00469,Katie Mcneil,24,Retired,Canada,No,Business Income,2024-07-21
+CUST00470,Jeanette Harrison,57,Student,Australia,No,Salary,2022-05-21
+CUST00471,Veronica King,21,Business Owner,India,Yes,Investment Returns,2023-04-14
+CUST00472,Richard Cooper,75,Salaried Employee,Canada,No,Rental Income,2023-06-28
+CUST00473,Lori Ingram,67,Self-Employed,UK,No,Rental Income,2021-10-28
+CUST00474,Evelyn Williams,24,Business Owner,USA,No,Rental Income,2025-05-21
+CUST00475,Robin Thompson,50,Homemaker,UK,No,Rental Income,2023-07-10
+CUST00476,Julie Dominguez,44,Business Owner,UK,No,Inheritance,2021-11-08
+CUST00477,Robin Brown,52,Homemaker,USA,No,Loan,2024-04-23
+CUST00478,Judith Carter,22,Business Owner,Canada,No,Savings,2021-12-03
+CUST00479,Curtis Williams,21,Homemaker,Australia,No,Investment Returns,2024-10-08
+CUST00480,Kaylee Hays,47,Retired,India,No,Business Income,2024-05-07
+CUST00481,Dawn Mullins,75,Government Employee,Germany,No,Loan,2022-11-15
+CUST00482,Howard Norman,27,Government Employee,USA,No,Loan,2025-01-19
+CUST00483,Evelyn Martinez,63,Business Owner,USA,No,Savings,2023-07-09
+CUST00484,Steve Paul,74,Student,UK,No,Savings,2024-01-12
+CUST00485,Jasmine Beltran,29,Homemaker,Canada,No,Salary,2024-07-18
+CUST00486,Jonathan Glass MD,47,Salaried Employee,Canada,No,Savings,2022-09-05
+CUST00487,Monica Miller,28,Salaried Employee,USA,No,Rental Income,2024-03-05
+CUST00488,Samantha Gardner,23,Business Owner,UK,No,Business Income,2021-01-22
+CUST00489,Bobby Guerrero,53,Salaried Employee,Australia,No,Savings,2024-04-23
+CUST00490,Lance Simmons,49,Government Employee,Australia,Yes,Inheritance,2024-09-27
+CUST00491,Heather Williams,29,Salaried Employee,India,No,Salary,2024-07-01
+CUST00492,Heather Bolton,64,Student,Australia,No,Salary,2022-06-14
+CUST00493,William Gould,22,Salaried Employee,USA,No,Loan,2024-10-27
+CUST00494,Mark Cox,72,Self-Employed,India,No,Salary,2025-04-14
+CUST00495,Meghan Cisneros,73,Student,Germany,No,Investment Returns,2022-10-26
+CUST00496,Lawrence Harrington,34,Business Owner,UK,No,Savings,2024-09-17
+CUST00497,Austin Osborne,36,Student,UK,Yes,Investment Returns,2022-05-30
+CUST00498,James Bradley,45,Business Owner,Germany,No,Business Income,2022-11-16
+CUST00499,Meghan Rush,55,Homemaker,India,No,Investment Returns,2022-09-25
+CUST00500,Phillip Berry,57,Government Employee,UK,No,Investment Returns,2024-04-16
