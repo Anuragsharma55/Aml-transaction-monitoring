@@ -85,7 +85,7 @@ This funnel shape — mostly low-risk, with a small escalating tail — mirrors 
 2. **Risk Analysis** — (https://github.com/Anuragsharma55/Aml-transaction-monitoring/blob/main/page2_risk_analysis.png)
 3. **Transaction Analysis** —(https://github.com/Anuragsharma55/Aml-transaction-monitoring/blob/cce59f62100fe6f47d4778175139fdab20cf881f/page3_transaction_analysis.png)
 4. **Geographic & Behavioral Risk** —(https://github.com/Anuragsharma55/Aml-transaction-monitoring/blob/fb2922bc3946e8cbfcce3ef6adf109ca55c08f6a/page4_geographic_risk.png)
-5. **Customer Details** — full per-customer risk detail table with drill-through from Risk Analysis
+5. **Customer Details** —(https://github.com/Anuragsharma55/Aml-transaction-monitoring/blob/ddd65b9c140c6fa72883949fb9489263cf437160/page5_customer_details.png)
 
 ---
 
