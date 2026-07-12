@@ -103,7 +103,7 @@ This funnel shape — mostly low-risk, with a small escalating tail — mirrors 
 ## Dashboard Pages
 
 1. **Executive Summary** — (https://raw.githubusercontent.com/Anuragsharma55/Aml-transaction-monitoring/b73cf0795a903c5bf3bc9d637f1691b5d0231c69/page1_executive_summary.png)
-2. **Risk Analysis** — (page2_risk_analysis
+2. **Risk Analysis** — (page2_risk_analysis.png)
 3. **Transaction Analysis** — transaction volume by type, monthly trend
 4. **Geographic & Behavioral Risk** — transaction value by beneficiary country, high-risk corridor transaction detail
 5. **Customer Details** — full per-customer risk detail table with drill-through from Risk Analysis
