@@ -43,27 +43,6 @@ This project builds that pipeline end-to-end: synthetic transaction data → SQL
 | Visualization | Power BI (Power Query, DAX) |
 
 ---
-
-## Repository Structure
-
-```
-├── data/
-│   ├── generate_data.py       # Synthetic data generator
-│   ├── customers.csv          # 500 generated customers
-│   └── transactions.csv       # ~2,000 generated transactions
-├── sql/
-│   ├── 01_schema.sql          # Table definitions
-│   ├── 00_load_data.sql       # CSV load script
-│   └── 02_flagging_logic.sql  # Core rule-based risk scoring logic
-├── dax/
-│   └── dax_measures.txt       # Power BI DAX measures
-├── docs/
-│   └── methodology.md         # Detailed scoring logic write-up
-└── AML_Transaction_Monitoring_Dashboard.pbix
-```
-
----
-
 ## How to Run
 
 1. **Generate data** (already included, or regenerate):
@@ -105,7 +84,7 @@ This funnel shape — mostly low-risk, with a small escalating tail — mirrors 
 1. **Executive Summary** — (https://raw.githubusercontent.com/Anuragsharma55/Aml-transaction-monitoring/b73cf0795a903c5bf3bc9d637f1691b5d0231c69/page1_executive_summary.png)
 2. **Risk Analysis** — (https://github.com/Anuragsharma55/Aml-transaction-monitoring/blob/main/page2_risk_analysis.png)
 3. **Transaction Analysis** —(https://github.com/Anuragsharma55/Aml-transaction-monitoring/blob/cce59f62100fe6f47d4778175139fdab20cf881f/page3_transaction_analysis.png)
-4. **Geographic & Behavioral Risk** — transaction value by beneficiary country, high-risk corridor transaction detail
+4. **Geographic & Behavioral Risk** —(https://github.com/Anuragsharma55/Aml-transaction-monitoring/blob/fb2922bc3946e8cbfcce3ef6adf109ca55c08f6a/page4_geographic_risk.png)
 5. **Customer Details** — full per-customer risk detail table with drill-through from Risk Analysis
 
 ---
